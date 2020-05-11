@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/filename"
+        android:layout_width="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:textSize="20sp"
+        android:typeface="sans"
+        android:layout_height="wrap_content"
+        android:hint="fileName" />
+
+    <TextView
+        android:id="@+id/uploadedDate"
+        android:layout_width="match_parent"
+        android:textColor="@color/Red"
+        android:fontFamily="sans-serif-black"
+        android:textSize="20sp"
+        android:typeface="sans"
+        android:layout_height="wrap_content"
+        android:hint="29th Aug, 2020" />
+
+    <TextView
+        android:id="@+id/fileDescription"
+        android:layout_width="match_parent"
+        android:textColor="@color/Sadness"
+        android:fontFamily="sans-serif-black"
+        android:textSize="20sp"
+        android:typeface="sans"
+        android:layout_height="wrap_content"
+        android:hint="This is a pdf file for the sales deal" />
+
+
+    <TextView
+        android:id="@+id/etWhiteSpacce"
+        android:layout_width="match_parent"
+        android:layout_height="15sp" />
+
+</LinearLayout>
