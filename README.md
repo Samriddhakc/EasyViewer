@@ -80,6 +80,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='instagram_walkthrough_2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='EasyViewer.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
